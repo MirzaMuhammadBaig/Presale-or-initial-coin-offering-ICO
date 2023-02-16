@@ -1,1 +1,4 @@
-txt
+TOKEN_A contract is deployed on this address: 0x247f9190b3e8cFE29E961259dD53d6B59Ad0057a
+TOKEN_B contract is deployed on this address: 0x5ECC40960Ffc7E9D8E487A6308bfA5aD1eCa703a
+Crowd Sale contract is deployed on this address: 0xD8834230Be79ae9FA967686BEe9130d1103532A2
+Address of NonFungiblePositionManager from uniswap = 0xC36442b4a4522E871399CD717aBDD847Ab11FE88 
