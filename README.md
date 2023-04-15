@@ -1,4 +1,4 @@
-# CrowdSale contract:
+# Presale or initial coin offering (ICO):
 
 
 In crowd sale smart-contract, I have imported three .sol files. One is IERC20, second is
@@ -9,7 +9,7 @@ allows structs, nested and dynamic variables to be passed into functions, return
 functions and emitted by events.
 
 
-## About CrowdSale contract:
+## About presale or ICO contract:
 #### Variables:
 - TokenId: Id of created pool.
 - Early_bonus_token: bonus tokens of early users.
