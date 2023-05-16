@@ -50,4 +50,4 @@ Pass address in INonfungiblePositionManager of NonfungiblePositionManager.
    In contract I have used this for the set_sale function, because every person can’t be a caller.
 3. Third import is from uniswap v3-periphery of INonfungiblePositionManager. In this interface I have created four structs and seven functions.
 
-- Note: More about this project have here [Documentation][Documentation_of_PreSale_SmartContract](https://github.com/MirzaMuhammadBaig/Presale-or-initial-coin-offering-ICO/blob/main/Documentation_of_PreSale_SmartContract.pdf)
+- Note: More about this project have here [Documentation_of_PreSale_SmartContract](https://github.com/MirzaMuhammadBaig/Presale-or-initial-coin-offering-ICO/blob/main/Documentation_of_PreSale_SmartContract.pdf)
