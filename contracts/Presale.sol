@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "./INonfungiblePositionManager.sol";
 
-contract CrowdSale is Ownable {
+contract Presale is Ownable {
     uint256 public time_of_buy;
     uint256 public early_bonus_token;
     uint256 public early_users;
